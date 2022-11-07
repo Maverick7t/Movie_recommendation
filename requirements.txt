@@ -15,3 +15,6 @@ lxml
 urllib3
 requests
 pickleshare
+wordnet
+pros_cons
+reuters
