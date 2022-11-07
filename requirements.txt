@@ -1,11 +1,11 @@
 Flask
+nltk
 gunicorn
 Jinja2
 MarkupSafe
 Werkzeug
 numpy
 scipy
-nltk
 scikit-learn
 pandas
 beautifulsoup4
@@ -15,5 +15,4 @@ lxml
 urllib3
 requests
 pickleshare
-pros_cons
 reuters
